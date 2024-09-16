@@ -6,6 +6,6 @@
 
 - Electrical Engineering Student @ CU Boulder
 
-- Interested in Robotics, FPGAs and Embedded Systems
+- Interested in Autonomous Robotics, FPGAs and Embedded Systems
 
 seka7178@colorado.edu
