@@ -6,6 +6,6 @@
 
 - Electrical Engineering Student @ CU Boulder
 
-- Interested in Signal Integrity, Semiconductore and FPGAs
+- Interested in Signal Integrity, Semiconductors and FPGAs
 
 seka7178@colorado.edu
